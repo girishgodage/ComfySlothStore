@@ -1,3 +1,5 @@
+# [Visit Live Site](https://girish-comfyslothstore.netlify.app/)
+
 #### .env vars
 
 - REACT_APP_AUTH_DOMAIN=
